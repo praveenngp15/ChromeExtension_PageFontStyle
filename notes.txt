@@ -1,0 +1,1 @@
+All chorme API's not accessebile in content Script. So Pass the message from background to content
